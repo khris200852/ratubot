@@ -1,0 +1,5 @@
+{
+  "name": "RATUBOT TUMBES",
+  "description": "An intelligent medical assistant powered by Google Gemini that provides definitions, symptoms, and treatments for medical conditions with text-to-speech capabilities.",
+  "requestFramePermissions": []
+}
